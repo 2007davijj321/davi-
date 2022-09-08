@@ -12,12 +12,12 @@
               <body>
               <h1> <h1 style="text-align: center" MUSICAL CENTER'</H1>
 
-        <p> Localizada no coração da cidade de curitiba <strong> CONFEITARIA LA TRIPLE T. </strong> Não é só farinha e açucar. E amor confeitado!! 
-   Foi fundada em 2022, a CONFEITARIA LA TRIPLE T já é destaque na cidade e conquista novos novos lugares a cada dia.</p>
+        <p>Localizada no coração da cidade de curitiba <strong> MUSICAL CENTER. </strong> sempre disposto a ajudar!! 
+   Foi fundada em 2022, a MUSICAL CENTER já é destaque na cidade entre os musicos e conquista novos novos clientes a cada dia.</p>
 
-   <p style="font-size: 20px"><em>Nossa missão é: <strong><font color="blue"> Proporcionar auto-estima e qualidade de vida aos clientes"</font></strong>.</em></p> 
+   <p style="font-size: 20px"><em>Nosso foco é: <strong><font color="blue"> Proporcionar produtos de alta qualidade e quantidade aos nossos clientes"</font></strong>.</em></p> 
 
-    <p>oferecemos profissionais e produtos de qualidade para trazer o melhor para os clientes, atendimento agil e rapido feito na hora</p>
+    <p>oferecemos profissionais competentes e produtos de qualidade para trazer o melhor para os clientes, atendimento agil,rapidoe eficás feito na hora</p>
     </body>
     </html>
     
