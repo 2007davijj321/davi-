@@ -2,7 +2,7 @@
 <html lang="pt-br"> 
     <head>
        <meta charset="UTF-8">
-       <title>  CONFEITARIA </title>
+       <title>  MUSICAL </title>
        <link rel="stylesheet" href="style.css">
        <style >
            
@@ -10,7 +10,7 @@
        </head>
 
               <body>
-              <h1> <h1 style="text-align: center">''CONFEITARIA LA TRIPLE T''</H1>
+              <h1> <h1 style="text-align: center" MUSICAL CENTER'</H1>
 
         <p> Localizada no coração da cidade de curitiba <strong> CONFEITARIA LA TRIPLE T. </strong> Não é só farinha e açucar. E amor confeitado!! 
    Foi fundada em 2022, a CONFEITARIA LA TRIPLE T já é destaque na cidade e conquista novos novos lugares a cada dia.</p>
